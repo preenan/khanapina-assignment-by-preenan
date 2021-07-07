@@ -1,0 +1,150 @@
+body{
+    margin: 0px 0px 0px 0px;
+}
+
+.color_orange{
+    color: rgb(240, 161, 15);
+}
+
+.font_n_design{
+    font-family: 'Yomogi', cursive;
+   
+    color: rgb(65, 63, 63);
+    
+}
+
+#part_1text{
+    width: 50%;
+    margin-left: 140px;
+    margin-top: 30px;
+    
+}
+
+h1.font_n_design{
+    font-size: 50px;
+    padding-top: 0%;
+}
+
+
+.parts{
+    display: flex;
+}
+
+#pic_1{
+    height: 500px;
+    width: 500px;
+    margin-left: 50px;
+    padding-left: 50px;
+    margin-right: 0px;
+    padding-right: 0px;
+}
+
+.button{
+    
+    height: 50px;
+    
+    background: linear-gradient(rgba(247, 177, 98, 0.904), rgb(196, 91, 5) );
+    border-radius: 30px;
+    text-align: center;
+    
+
+}
+
+#part_2{
+        
+        background-image: url(/images/Frame\ 58.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        height: 600px;
+        display: flex;
+
+        
+}
+
+#pic_2{
+    height: 600px;
+    width: 400px;
+    margin-left: 200px;
+    
+
+}
+
+#part_2text{
+    
+    margin-top: 50px;
+    display: block;
+    margin-right: 150px;
+    margin-left: 75px;
+}
+
+
+#part_3{
+    background-color: whitesmoke;
+    height: 1000px;
+    width: 100%;
+}
+
+h2{
+    font-family: ;
+    color: black;
+    padding-left: 15px;
+    font-size: 30px;
+    font-family: 'Yomogi', cursive;
+}
+
+#pt2header{
+    color: grey;
+    text-align: center;
+}
+
+.card{
+    margin-top: 20px; 
+    font-family: 'Yomogi', cursive;
+    background-color: white;
+    height: 450px;  
+    width: 340px;
+    border-radius: 15px;
+    margin-top: 5px;
+    
+    padding-top: 15px;
+    padding-left: 15px;
+    box-shadow: 20px 6px 20px 6px #ccc;
+    
+}
+
+
+
+.cardtext{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#blockcards{
+    padding-top: 50px;
+    display: block;
+}
+
+#inlinecards{
+    display: flex;
+}
+
+#footer{
+    background-color: black;
+    text-align: center;
+    display: block;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+#foothead{
+    margin-top: 30px;
+    font-size: 30px;
+    color: rgb(240, 161, 15);
+}
+
+#foottext{
+    
+    font-family: 'Yomogi', cursive;
+    color: white;
+    
+}
